@@ -27,6 +27,6 @@ Siga os passos abaixo para executar a aplicação na sua máquina:
     https://digital-store-frontend-theta.vercel.app/
 
 **Autores**
-Francisco Thiago Martins 
-Davidson Luiz Martins
+Francisco Thiago Martins,
+Davidson Luiz Martins,
 Manoel Denison Martins
