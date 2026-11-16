@@ -23,8 +23,10 @@ Siga os passos abaixo para executar a aplicação na sua máquina:
 4. Inicie o servidor de desenvolvimento:
     npm run dev
 
+5. Acesse o site
+    https://digital-store-frontend-theta.vercel.app/
 
 **Autores**
 Francisco Thiago Martins 
-Davdson Luiz Martins
+Davidson Luiz Martins
 Manoel Denison Martins
