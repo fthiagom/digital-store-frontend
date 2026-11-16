@@ -12,7 +12,7 @@ Siga os passos abaixo para executar a aplicação na sua máquina:
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/fthiagom/digital-store-frontend.git](https://github.com/fthiagom/digital-store-frontend.git)
+   git clone https://github.com/fthiagom/digital-store-frontend.git
 
 2.  Entre na pasta do projeto:
     cd src
